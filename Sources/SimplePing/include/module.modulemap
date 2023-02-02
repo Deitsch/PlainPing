@@ -1,0 +1,3 @@
+module SimplePing {
+    header "SimplePing.h"
+}
