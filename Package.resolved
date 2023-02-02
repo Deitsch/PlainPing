@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "simpleping",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Deitsch/SimplePing",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3dba49d6095c6c3789f80bb842ea57df191763bf"
+      }
+    }
+  ],
+  "version" : 2
+}
